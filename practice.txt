@@ -5,3 +5,5 @@
 # message ctrl enter : commit
 
 저는 학생입니다.
+
+저는 남양주에 삽니다.

@@ -3,8 +3,11 @@
 # git init
 # + : add
 # message ctrl enter : commit
+# push : 원격 저장소에 추가
+# pull : 원격 저장소의 내용 불러오기
 
 저는 학생입니다.
 
 저는 남양주에 삽니다.
 저는 음악을 좋아합니다.
+
